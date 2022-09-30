@@ -1,6 +1,10 @@
 [
     {
-        "firstname" : "Tom",
+        "firstname" : "Thomas",
         "lastname" : "Lewis"
+    },
+    {
+        "firstname" : "Rowan",
+        "lastname" : "Fletcher"
     }
 ]
